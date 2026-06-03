@@ -9,6 +9,8 @@ This project is a simple weather station based on an ESP32 microcontroller and a
 **🖥️ Live simulation on Wokwi:** [Click here to view](https://wokwi.com/projects/447447731628210177)
 
 <img width="228" height="179" alt="image" src="https://github.com/user-attachments/assets/02763f95-6e38-4303-b473-136603289593" />
+<img width="221" height="172" alt="image" src="https://github.com/user-attachments/assets/df52e8e9-3762-47af-a073-51224634c19d" />
+
 
 
 ## 🛠️ Hardware Required
